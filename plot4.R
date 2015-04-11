@@ -1,6 +1,3 @@
-rm(list = ls())
-setwd("C:/Users/Ivo/coursera-repo/exdata-013/datasets/")
-
 ## set system locale
 Sys.setlocale("LC_ALL","C")
 
